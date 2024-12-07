@@ -1,0 +1,8 @@
+Factor,T-statistic,P-value,Conclusion
+Happiness score,44.638162947948196,1.62975737990804e-22,H₁: Significant
+Log GDP per capita,66.08306450516629,0.0,H₁: Significant
+Social support,33.80095393557288,9.137257729352704e-26,H₁: Significant
+Healthy life expectancy at birth,30.77977642043758,3.887707772888485e-22,H₁: Significant
+Freedom to make life choices,52.54286682197049,5.852645590836319e-56,H₁: Significant
+Generosity,6.910917566781293,1.851851348446903e-05,H₁: Significant
+Perceptions of corruption,-17.589231774542988,9.136779440048976e-10,H₁: Significant
